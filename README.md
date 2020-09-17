@@ -1,6 +1,6 @@
-# CERI - Avignon Université - L3 - UE Génie Logiciel
+# CERI - Avignon UniversitÃ© - L3 - UE GÃ©nie Logiciel
 
 ## TP3-Refactoring
 
 
-Pour créer votre fork, acceptez l'affectation sur GitHub Classroom https://classroom.github.com/a/GnI9JuVh
+Pour crÃ©er votre fork, acceptez l'affectation sur GitHub Classroom https://classroom.github.com/a/KCG32mYL
